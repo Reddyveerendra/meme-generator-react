@@ -45,7 +45,7 @@ body {
   padding: 36px;
 }
 .form_inputs {
-  border: 1px lightslategray;
+  border: 1px solid rgb(0, 0, 0);
   font-family: "Karla", sans-serif;
   border-radius: 5px;
 }
